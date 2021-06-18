@@ -1,0 +1,7 @@
+name: MageDemo
+version: ${project.version}
+main: gg.slvr.magedemo.MageDemo
+api-version: 1.12
+authors: [ sliver ]
+description: mAgE deMo
+website: slvr.gg
